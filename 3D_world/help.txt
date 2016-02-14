@@ -1,0 +1,13 @@
+Press h for player's view
+Press n for normal view
+Press t for top view
+Press x to zoom in 
+Press z to zoom out
+Drag mouse to pan
+Use up,down,left,right to move the player
+Press esc or q to quit
+-----------------------------------------------
+red cude is the player
+multicolor objects are obstacles
+
+After losing a life the player spawns again at the original postion.

@@ -1,0 +1,5 @@
+compile game :
+
+make sample2D
+./sample2D
+
